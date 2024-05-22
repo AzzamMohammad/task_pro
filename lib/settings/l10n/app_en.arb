@@ -1,0 +1,162 @@
+{
+    "start":"START",
+        "@language":{
+            "description":"start"
+        },
+
+    "skip":"Skip",
+        "@language":{
+            "description":"skip"
+        },
+
+    "next":"Next",
+        "@language":{
+            "description":"next"
+        },
+
+    "with_this_small_app_you_can_organize_all_your_tasks_And_duties_in_a_one_single_app":"With This Small App You Can Organize All Your Tasks And Duties In A One Single App",
+        "@language":{
+            "description":"intro slide "
+        },
+
+    "manage_your_task":"Manage Your Task",
+        "@language":{
+            "description":"intro slide "
+        },
+
+    "carry_out_your_tasks_day_After_Day_until_you_reach_your_goal":"Carry Out Your Tasks Day After Day Until You Reach Your Goal",
+        "@language":{
+            "description":"intro slide"
+        },
+
+    "carry_out_tasks":"Carry Out Tasks",
+        "@language":{
+            "description":"intro slide"
+        },
+
+    "organize_your_tasks_in_the_best_way_to_ensure_success_in_all_areas_of_life":"Organize Your Tasks In The Best Way To Ensure Success In All Areas Of Life",
+        "@language":{
+            "description":"intro slide"
+        },
+
+    "success_partners":"Success Partners",
+        "@language":{
+            "description":"intro slide"
+        },
+
+    "user_name":"User name",
+        "@language":{
+            "description":"user name field"
+        },
+
+    "user_name_is_required":"User name is required",
+        "@language":{
+            "description":"user name field validation"
+        },
+
+    "password":"Password",
+        "@language":{
+            "description":"password field"
+        },
+
+    "password_is_required":"Password is required",
+        "@language":{
+            "description":"password field validation"
+        },
+
+    "send":"Send",
+        "@language":{
+            "description":"Send"
+        },
+
+    "yor_tasks":"Yor Tasks",
+        "@language":{
+            "description":"yor_tasks"
+        },
+
+    "completed":"Completed",
+        "@language":{
+            "description":"completed"
+        },
+
+    "waiting":"Waiting",
+        "@language":{
+            "description":"Waiting"
+        },
+
+    "new_task":"New",
+        "@language":{
+            "description":"new_task"
+        },
+
+    "home":"Home",
+        "@language":{
+            "description":"home"
+        },
+
+    "pagination":"Pagination",
+        "@language":{
+            "description":"pagination"
+        },
+
+    "delete":"Delete",
+        "@language":{
+            "description":"delete"
+        },
+
+    "done":"Done",
+        "@language":{
+            "description":"Done"
+        },
+
+    "love":"Love",
+        "@language":{
+            "description":"love"
+        },
+
+    "task_deleted_successfully":"Task deleted successfully",
+        "@language":{
+            "description":"Task deleted successfully "
+        },
+
+    "an_error_happen":"An error happen",
+        "@language":{
+            "description":"An error happen "
+        },
+
+    "login_successfully":"Login successfully",
+        "@language":{
+            "description":"Login successfully"
+        },
+
+    "error_in_user_name_or_password":"Error in user name or password",
+        "@language":{
+            "description":"error in user name or password"
+        },
+
+    "what_are_you_thinking":"What are you thinking",
+        "@language":{
+            "description":"what_are_you_thinking"
+        },
+
+    "add_task":"Add task",
+        "@language":{
+            "description":"what_are_you_thinking"
+        },
+
+    "task_add_successfully":"Task added successfully",
+        "@language":{
+            "description":"task_add_successfully"
+        },
+
+    "task_updated_successfully":"Task Updated successfully",
+        "@language":{
+            "description":"task_updated_successfully"
+        },
+
+    "enter_task_description":"Enter the task description",
+        "@language":{
+            "description":"enter task description"
+        }
+
+}
